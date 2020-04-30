@@ -1,0 +1,30 @@
+#color_box {
+    width: 200px;
+    height: 200px;
+}
+.gray {
+    background: gray;
+}
+.blue {
+    background: blue;
+}
+
+.pink {
+    background: pink;
+}
+
+.yellow {
+    background: yellow;
+}
+
+h2 {
+    align-items: flex-start;
+    text-align: justify;
+}
+
+
+
+/*
+TODO 1
+Add a CSS rule for the pink button
+*/
